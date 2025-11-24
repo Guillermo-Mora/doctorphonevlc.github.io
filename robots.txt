@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://doctorphonevlc.es
+
+# Sitemaps
+Sitemap: https://doctorphonevlc.es/sitemap.xml
+
+# Error page
+Disallow: /error404notfoundurl.html

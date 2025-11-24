@@ -1,0 +1,12 @@
+{"name":"Doctor Phone",
+"short_name":"Doctor Phone",
+"start_url":"/",
+"display":"fullscreen",
+"background_color":"#11a9ff",
+"lang":"es","scope":"/",
+"description":"Técnicos especializados en la reparación y cambio de piezas de teléfonos móviles, tablets, portátiles y consolas.",
+"theme_color":"#11a9ff",
+"icons":[{"src": "/images/DPhoneLogo-Page.png",
+"sizes": "64x64",
+"type": "image/png",
+"purpose":"any maskable"}]}
